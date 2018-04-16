@@ -1832,6 +1832,11 @@ body {
     -webkit-justify-content: center;
   }
 }
+.cid-qPlWCMuYZj {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/jumbotron.jpg");
+}
 .cid-qO22H1xnxx .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -2212,6 +2217,58 @@ body {
 .cid-qO22H1xnxx .nav-link:hover,
 .cid-qO22H1xnxx .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-qPlWF0Zroa {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qPlWF0Zroa .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-qPlWF0Zroa h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qPlWF0Zroa p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qPlWF0Zroa .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qPlWF0Zroa .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qPlWF0Zroa .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-qPlWFIe9mI {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qPlWFIe9mI .mbr-text {
+  color: #767676;
+}
+.cid-qPlWFIe9mI h4 {
+  text-align: center;
+}
+.cid-qPlWFIe9mI p {
+  text-align: center;
+}
+.cid-qPlWFIe9mI .card-img span {
+  font-size: 96px;
+  color: #149dcc;
 }
 .cid-qO22H1xnxx .navbar {
   padding: .5rem 0;
