@@ -1755,15 +1755,109 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qO22H3yhM7 {
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/salad-2068220-960-720-960x640.jpg");
 }
 .cid-qO22H3yhM7 H1 {
   color: #ffffff;
 }
 .cid-qO22H3yhM7 .mbr-text,
 .cid-qO22H3yhM7 .mbr-section-btn {
-  color: #efefef;
+  color: #000000;
   text-align: center;
+}
+.cid-qPm19GpDCm {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qPm19GpDCm h2 {
+  text-align: left;
+}
+.cid-qPm19GpDCm h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-qPm19GpDCm p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qPm19GpDCm .aside-content {
+  flex-basis: 100%;
+}
+.cid-qPm19GpDCm .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-qPm19GpDCm .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-qPm19GpDCm .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-qPm19GpDCm .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-qPm19GpDCm .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-qPm19GpDCm .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qPm19GpDCm .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-qPm19GpDCm .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-qPJIqo886p {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #fafafa;
+}
+.cid-qPJIqo886p h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-qPJIqo886p .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-qPJIqo886p .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qPJIqo886p .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-qPJIqo886p ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-qPJIqo886p path {
+  stroke: #149dcc;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-qPJIqo886p .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
 }
 .cid-qO22H4MOCz {
   padding-top: 60px;
