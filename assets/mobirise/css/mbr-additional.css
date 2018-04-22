@@ -1762,7 +1762,7 @@ body {
 }
 .cid-qO22H3yhM7 .mbr-text,
 .cid-qO22H3yhM7 .mbr-section-btn {
-  color: #000000;
+  color: #ffffff;
   text-align: center;
 }
 .cid-qPUVuyuftP {
@@ -1838,12 +1838,11 @@ body {
   }
 }
 .cid-qPJOPnjZkV {
-  padding-top: 45px;
-  padding-bottom: 75px;
   background: #000000;
 }
 .cid-qPJOPnjZkV .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-qPJOPnjZkV .video-block {
